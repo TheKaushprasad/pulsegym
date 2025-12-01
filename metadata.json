@@ -1,0 +1,5 @@
+{
+  "name": "GymPulse Real-Time",
+  "description": "A smart gym management dashboard providing real-time crowd insights, equipment availability, and predictive analytics to optimize member workout schedules.",
+  "requestFramePermissions": []
+}
